@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T08:29:33.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="PP0ivVGoa-sz9fTi1MSU" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T08:33:21.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="vCx6JZ7JWEhISb7FbBFv" version="14.2.9" type="github">
   <diagram id="a8VxwwtJKNdbYS7lUb4r" name="Page-1">
     <mxGraphModel dx="868" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,6 +23,9 @@
         </mxCell>
         <mxCell id="nJDmBKOJ68vctSS9GbZy-4" value="WakeUp&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nJDmBKOJ68vctSS9GbZy-6" value="50ms&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
