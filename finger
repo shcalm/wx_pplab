@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T08:33:21.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="vCx6JZ7JWEhISb7FbBFv" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T08:38:25.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="JpkhFddxjRhWUkoFHXYT" version="14.2.9" type="github">
   <diagram id="a8VxwwtJKNdbYS7lUb4r" name="Page-1">
     <mxGraphModel dx="868" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,11 +21,20 @@
         <mxCell id="nJDmBKOJ68vctSS9GbZy-2" value="FingerPrintService&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nJDmBKOJ68vctSS9GbZy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="nJDmBKOJ68vctSS9GbZy-4" target="nJDmBKOJ68vctSS9GbZy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nJDmBKOJ68vctSS9GbZy-4" value="WakeUp&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nJDmBKOJ68vctSS9GbZy-6" value="50ms&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="190" width="20" height="100" as="geometry" />
+        <mxCell id="nJDmBKOJ68vctSS9GbZy-6" value="50ms&lt;br style=&quot;font-size: 15px;&quot;&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;verticalAlign=middle;fontStyle=1;horizontal=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nJDmBKOJ68vctSS9GbZy-10" value="ScreenOn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nJDmBKOJ68vctSS9GbZy-12" value="630ms&lt;br style=&quot;font-size: 15px;&quot;&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;rotation=0;horizontal=1;verticalAlign=middle;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
